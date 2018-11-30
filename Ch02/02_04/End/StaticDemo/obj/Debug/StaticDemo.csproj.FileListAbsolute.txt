@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\NailYourCSharpInterview\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\NailYourCSharpInterview\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\NailYourCSharpInterview\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\NailYourCSharpInterview\StaticDemo\obj\Debug\StaticDemo.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\NailYourCSharpInterview\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\NailYourCSharpInterview\StaticDemo\obj\Debug\StaticDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_04\End\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_04\End\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_04\End\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_04\End\StaticDemo\obj\Debug\StaticDemo.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_04\End\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_04\End\StaticDemo\obj\Debug\StaticDemo.pdb

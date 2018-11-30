@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_01\End\CSharpQ\bin\Debug\CSharpQ.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_01\End\CSharpQ\bin\Debug\CSharpQ.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_01\End\CSharpQ\bin\Debug\CSharpQ.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_01\End\CSharpQ\obj\Debug\CSharpDemo.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_01\End\CSharpQ\obj\Debug\CSharpQ.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_01\End\CSharpQ\obj\Debug\CSharpQ.pdb

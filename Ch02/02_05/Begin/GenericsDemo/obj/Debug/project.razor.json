@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\4Dev\\Ex_Files_C_Sharp_Dev_Interview\\Ex_Files_C_Sharp_Dev_Interview\\Exercise Files\\NailYourCSharpInterview\\Ch02\\02_05\\Begin\\GenericsDemo\\GenericsDemo.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

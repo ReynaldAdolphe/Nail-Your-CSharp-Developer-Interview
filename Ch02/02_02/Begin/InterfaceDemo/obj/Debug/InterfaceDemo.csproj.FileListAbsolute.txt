@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_02\Begin\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_02\Begin\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_02\Begin\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_02\Begin\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_02\Begin\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_02\Begin\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

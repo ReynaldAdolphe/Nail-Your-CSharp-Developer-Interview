@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_05\Begin\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_05\Begin\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_05\Begin\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_05\Begin\GenericsDemo\obj\Debug\GenericsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_05\Begin\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercises\NailYourCSharpInterview\Ch02\02_05\Begin\GenericsDemo\obj\Debug\GenericsDemo.pdb
